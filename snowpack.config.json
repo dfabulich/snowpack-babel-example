@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "build:js": "cat"
+    "plugin:js,jsx": "@snowpack/plugin-babel"
   }
 }
